@@ -20,7 +20,7 @@
 - 💼 I'm currently working on: **marko.ch**
 - 💬 Ask me about: **LiveView, Javascript, TailwindCss**
 - ⚡ Fun fact: **I once fixed and issue while on my phone 😅**
-- 📂 Portfolio: **<a href="themykolas.com" target="_blank">themykolas.com</a>**
+- 📂 Portfolio: **<a href="https://themykolas.com" target="_blank">themykolas.com</a>**
 
  **<h3 align="left">Skills</h3>**
 
